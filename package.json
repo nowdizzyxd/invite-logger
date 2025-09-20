@@ -12,7 +12,7 @@
     "invite",
     "tracker"
   ],
-  "author": "",
+  "author": "nowdizzy",
   "license": "ISC",
   "description": "Discord invite logger bot with Turkish commands",
   "dependencies": {
